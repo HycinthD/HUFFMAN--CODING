@@ -24,7 +24,7 @@ Reg No:212223240055
 ```
 # Get the input String
 ```
-string = 'Dharini'
+string = 'Hycinth'
 ```
 # Create tree nodes
 ```
